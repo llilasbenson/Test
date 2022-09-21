@@ -1,0 +1,19 @@
+{ 
+    "title": "CollectionBuilder CSV",
+    "url": "https://llilasbenson.github.io/test/",
+    "image": "", 
+    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "publisher": { 
+        "name": "Center for Digital Inquiry and Learning (CDIL)", 
+        "url": "https://cdil.lib.uidaho.edu/", 
+        "logo": "https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png" 
+    },
+    "date_start": "",
+    "date_end": "",
+    "objects": {
+        
+    },
+    "data": "https://llilasbenson.github.io/test/assets/data/datapackage.json",
+    "last_build_date": "2022-09-21"
+}
+
